@@ -1,4 +1,4 @@
-# Nyamedis.github.io
+# Nyamedis.blog
 
 
 
